@@ -1,1 +1,2 @@
 process the user data with their account balance at the same time.
+User must authenticate first
