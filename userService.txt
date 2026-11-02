@@ -1,1 +1,1 @@
-process the user data
+process the user data with their account balance at the same time.
